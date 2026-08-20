@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beniskillen.github.io/nara-studio/sitemap-index.xml
